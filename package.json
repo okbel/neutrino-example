@@ -1,0 +1,20 @@
+{
+  "name": "neutrino-bel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "start": "neutrino start --presets neutrino-preset-react",
+    "build": "neutrino build --presets neutrino-preset-react"
+  },
+  "devDependencies": {
+    "neutrino": "^4.1.0",
+    "neutrino-preset-react": "^4.1.0"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-hot-loader": "next"
+  }
+}
