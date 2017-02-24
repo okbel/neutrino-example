@@ -1,6 +1,10 @@
 # Neutrino Example
 An example using Neutrino ✨
 
+This example uses
+- React
+- Hot Module Loader
+
 ## About Neutrino
 
 Neutrino allows you to create and build modern JavaScript applications with zero initial configuration
